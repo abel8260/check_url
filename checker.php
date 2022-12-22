@@ -1,3 +1,4 @@
+ 
 
 // Initialize a variable into domain name
 
