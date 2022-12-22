@@ -6,7 +6,7 @@
 	<title></title>
 </head>
 <body>
-<form action="./logica_check_router.php" method="GET" >
+<form action="./checker.php" method="GET" >
 <input type="text" name="input0">
 <?php session_start();
 
